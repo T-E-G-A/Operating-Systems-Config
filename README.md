@@ -2,7 +2,6 @@
 
 This repository contains the coursework for the Operating Systems module (MOD003218) at the Faculty of Science and Engineering, School of Computing and Information Science, Anglia Ruskin University.
 
-## SID NUMBER: 2179610
 
 ### Trimester 2 – 2022
 ### Submission deadline: 24/04/2023
